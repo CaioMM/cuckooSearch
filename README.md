@@ -15,7 +15,7 @@
 ---
 
 ## 3. Reference
-[link](https://www.youtube.com/watch?v=NP47NRpRLQo&ab_channel=RitikaxRayPixy)
+[|Numerical Example| Learn Cuckoo Search Algorithm Step-by-Step Explanation [3/4] ~xRay Pixy](https://www.youtube.com/watch?v=NP47NRpRLQo&ab_channel=RitikaxRayPixy)
 ---
 
 ## License
