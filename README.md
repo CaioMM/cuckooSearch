@@ -14,8 +14,16 @@
 * Insert there the function to be optimized.
 ---
 
-## 3. Reference
-[|Numerical Example| Learn Cuckoo Search Algorithm Step-by-Step Explanation [3/4] ~xRay Pixy](https://www.youtube.com/watch?v=NP47NRpRLQo&ab_channel=RitikaxRayPixy)
+## 3. Reference ##
+* [|Numerical Example| Learn Cuckoo Search Algorithm Step-by-Step Explanation [3/4] ~xRay Pixy](https://www.youtube.com/watch?v=NP47NRpRLQo&ab_channel=RitikaxRayPixy)
+
+* "A Novel Cuckoo Search Approach Enhanced with Genetic Replacement of 
+Abandoned Nests Applied to Optimal Allocation of DG units", IET Generation 
+Transmission & Distribution, v. 12, p. 3353-3362, 2018.
+
+*  X.-S. Yang: S. Deb (December 2009). Cuckoo search via Levy flights. 
+World Congress on Nature & Biologically Inspired Computing (NaBIC 2009). 
+IEEE Publications. pp. 210-214.
 ---
 
 ## License
